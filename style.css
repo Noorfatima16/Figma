@@ -1,0 +1,32 @@
+
+.ite{
+    background-color: rgb(255, 153, 0);
+}
+.iteam{
+    margin-top: 100px;
+    font-size: 24;
+    color: aliceblue;
+}
+.div-iteam{
+    background-color: snow;
+    
+}
+.div-ite-posi{
+    margin-top: 50px;
+}
+.color{
+    margin-top: 50px;
+}
+h3{
+    margin-top: 50px;
+    text-align: center;
+}
+.color-pos{
+    margin-left: 10px;
+}
+.color-pos-1{
+   margin-left: 50px;
+}
+.color-pos-2{
+    margin-right: 10px;
+}
