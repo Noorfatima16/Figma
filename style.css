@@ -30,3 +30,20 @@ h3{
 .color-pos-2{
     margin-right: 10px;
 }
+.color-1{
+    margin-top: 10px;
+}
+button{
+    height: 40px;
+    width: 185px;
+    border-radius: 7px;
+    background-color: #F17228;
+    color: aliceblue;
+    border-color: #F17228;
+}
+img{
+    border-radius: 7px;
+}
+.margin{
+    margin-left: 100px;
+}
